@@ -2,7 +2,7 @@
 
 ## Description
 
-An E-Commerce website selling succulents and cacti to plant lovers all over the world...
+An app designed to write and save notes.
 
 ## Built With
 * JS
@@ -10,4 +10,4 @@ An E-Commerce website selling succulents and cacti to plant lovers all over the 
 * Node
 
 ## Delpoyed Website
-
+https://arcane-forest-48347.herokuapp.com/
